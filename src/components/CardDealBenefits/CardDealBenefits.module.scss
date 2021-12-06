@@ -1,0 +1,27 @@
+*,
+*::after,
+*::before{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Oswald', sans-serif;
+}
+
+.headerBottom__headerCard{
+  display: flex;
+  width: 400px;
+  height: 150px;
+  background-color: #000;
+  border: 4px solid #CDBD4B;
+  margin-right: 20px;
+  .headerCard__text{
+    color: #CDBD4B;
+    padding: 34px 10px 38px 30px;
+    font-size: 17px;
+    font-weight: 400;
+    max-width: 240px;
+  }
+  .headerCard__img{
+    margin: 35px 0 0 20px;
+  }
+}

@@ -1,0 +1,139 @@
+*,
+*::after,
+*::before{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+.cardLink{
+    text-decoration: none;
+}
+
+.card{
+    display: flex;
+    width: 1095px;
+    height: 305px;
+    background-color: #fff;
+    margin: 0 auto 45px auto;
+    position: relative;
+
+    &:hover{
+        transform: scale(1.01);      
+    }
+
+    .card__leftSide{
+        margin-right: 35px;
+
+        .leftSide__categoryAuto{
+            color: #fff;
+            padding: 5px 40px 6px 40px;
+            margin-bottom: 10px;
+            font-size: 22px;
+            background-color: #2482C7;
+        }
+    }
+
+    
+
+    .img__imgAuto{
+        position: absolute;
+        margin: -19px 0 0 -68px;
+        z-index: 10;
+    }
+
+    .carImg__image{
+        z-index: 150;
+        position: absolute;
+    }
+
+    .leftSide__carImg{
+        margin: 0 0 0 5px;
+    }
+
+    // .left-side__car-img-2{
+    //     margin: 0 0 0 52px;
+    // }
+
+    // .left-side__car-img-4{
+    //     margin: 0 0 0 50px;
+    // }
+
+    .leftSide__nameCarContainer{
+        width: 400px;
+        height: 108px;
+        background-color: #2482C7;
+        position: absolute;
+        bottom: 0;
+
+        .nameCarContainer__title{
+            font-size: 35px;
+            font-weight: bold;
+            color: #2482C7;
+            -webkit-text-stroke-width: 2px;
+            -webkit-text-stroke-color: #000;
+            padding: 5px 0 0 15px;
+        }
+
+        .nameCarContainer__price{
+            margin-left: 20px;
+            font-size: 24px;
+            font-weight: 400;
+            color: #000;
+        }
+    }
+
+    .cardAuto__rightSide{
+        display: flex;
+
+        .lineCardAuto{
+            width: 1px;
+            height: 210px;
+            background-color: #C4C4C4;
+            margin-top: 55px;
+        }
+    }
+
+}
+
+.card__rightSide{
+    display: flex;
+    margin-left: 246px;
+
+    .lineCardAuto{
+        width: 1px;
+        height: 210px;
+        background-color: #C4C4C4;
+        margin-top: 55px;
+    }
+
+}
+
+.rightSide__feature{
+    width: 170px;
+    margin: 70px 30px 0 30px;
+
+    .feature__img{
+        display: flex;
+    }
+
+    .img__icon{
+        margin: 0 auto;
+    }
+
+    .feature__title{
+        color: #000;
+        font-size: 35px;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    .feature__text{
+        color: #000;
+        font-size: 30px;
+        text-align: center;
+    }
+
+}

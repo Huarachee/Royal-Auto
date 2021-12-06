@@ -1,0 +1,39 @@
+.footer{
+    background-color: rgb(14, 17, 54);
+
+    .container{
+        width: 1230px;
+        margin: 0 auto;
+        padding: 0 15px;
+    }
+
+    .footerLogo{
+        width: 157px;
+        margin: 0 auto;
+        padding: 20px 0 20px 0;
+        text-decoration: none;
+        color: #fff;
+    
+        .footerLogo__iconContainer{
+            display: flex;
+
+            .footerLogo__icon{
+                margin: 0 auto;
+            }
+        }
+    
+        .footerLogo__title{
+            margin-top: -5px;
+            text-align: center;
+        }
+    }
+    
+    .copyright{
+        color: #fff;
+        text-align: center;
+        padding-bottom: 10px;
+    }
+
+}
+
+
