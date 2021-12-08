@@ -19,7 +19,7 @@ function TraideIn() {
                             </p>
                         </div>
                         <div className="mainContentImg">
-                            <img src="/img/traideInImg.png" alt="traide-in-img" width="600" height="450"/>
+                            <img src="img/traideInImg.png" alt="traide-in-img" width="600" height="450"/>
                             <div className="contentBtn">
                                 <button className="makeAnBtn">Подать заявку</button>
                             </div>

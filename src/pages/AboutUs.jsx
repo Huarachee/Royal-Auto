@@ -23,19 +23,19 @@ function AboutUs() {
                                 </h3>
                                 <div className="networkItems">
                                     <a className="networkItemsInst" href="https://www.instagram.com/?hl=ru">
-                                        <img src="/img/instagram-icon.svg" alt="inst-icon" width="60" height="60" />
+                                        <img src="img/instagram-icon.svg" alt="inst-icon" width="60" height="60" />
                                     </a>
                                     <a className="networkItemsVk" href="https://vk.com/">
-                                        <img src="/img/vk-icon.svg" alt="vk-icon" width="60" height="60" />
+                                        <img src="img/vk-icon.svg" alt="vk-icon" width="60" height="60" />
                                     </a>
                                     <a className="networkItemsFacebook" href="https://ru-ru.facebook.com/">
-                                        <img src="/img/facebook-icon.svg" alt="facebook-icon" width="60" height="60" />
+                                        <img src="img/facebook-icon.svg" alt="facebook-icon" width="60" height="60" />
                                     </a>
                                 </div>
                             </div>
                         </div>
                         <div className="rightSideAboutUs">
-                            <img className="aboutUsImg" src="/img/aboutUs__bg.jpg" alt="" width="700" height="400"/>
+                            <img className="aboutUsImg" src="img/aboutUs__bg.jpg" alt="" width="700" height="400"/>
                         </div>
                     </div>
                 </div>

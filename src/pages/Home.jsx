@@ -20,13 +20,13 @@ function Home({ cardDealBenefits,
                   <div className="text__linkNetwork">
                     <div className="linkNetwork__line"></div>
                     <a href="https://www.instagram.com/?hl=ru">
-                      <img className="linkNetwork__icon" src="/img/instagram-icon.svg" alt="network-icon" width="35" height="35"/>
+                      <img className="linkNetwork__icon" src="img/instagram-icon.svg" alt="network-icon" width="35" height="35"/>
                     </a>
                     <a href="https://vk.com/">
-                      <img className="linkNetwork__icon" src="/img/vk-icon.svg" alt="network-icon" width="35" height="35"/>
+                      <img className="linkNetwork__icon" src="img/vk-icon.svg" alt="network-icon" width="35" height="35"/>
                     </a>
                     <a href="https://ru-ru.facebook.com/">
-                      <img className="linkNetwork__icon" src="/img/facebook-icon.svg" alt="network-icon" width="35" height="35"/>
+                      <img className="linkNetwork__icon" src="img/facebook-icon.svg" alt="network-icon" width="35" height="35"/>
                     </a>
                   </div>
                   <h1 className="text__title">Автосалон Автомобилей <span className="title__span">Premium</span> Сегмента</h1>

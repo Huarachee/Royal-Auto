@@ -8,7 +8,7 @@ function Footer() {
             <div className={styles.container}>
                 <a className={styles.footerLogo} href="/">
                     <div className={styles.footerLogo__iconContainer}>
-                        <img className={styles.footerLogo__icon} src="/img/logo.svg" alt=""/>
+                        <img className={styles.footerLogo__icon} src="img/logo.svg" alt=""/>
                     </div>
                     <h1 className={styles.footerLogo__title}>Royal auto</h1>
                 </a>

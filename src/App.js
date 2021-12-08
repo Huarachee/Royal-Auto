@@ -1,7 +1,7 @@
 import React from 'react';
 // import axios from 'axios';
 import { Route } from 'react-router-dom';
-import { BrowserRouter as Router } from 'react-router-dom';
+// import { BrowserRouter as Router } from 'react-router-dom';
 import Home from './pages/Home';
 import TraideIn from './pages/TraideIn';
 import Leasing from './pages/Leasing';
@@ -53,7 +53,7 @@ function App() {
 
   return (
     <div className="App">
-        <Route path="/" exact>
+        <Route path="" exact>
           <Home 
             cardDealBenefits={cardDealBenefits} 
             searchValue={searchValue}
@@ -63,13 +63,13 @@ function App() {
             cardSportAuto={cardSportAuto}
           />
         </Route>
-        <Route path="/traideIn" exact>
+        <Route path="traideIn" exact>
           <TraideIn/>
         </Route>
-        <Route path="/leasing" exact>
+        <Route path="leasing" exact>
           <Leasing/>
         </Route>
-        <Route path="/aboutUs" exact>
+        <Route path="aboutUs" exact>
           <AboutUs/>
         </Route>
       <Footer/>
