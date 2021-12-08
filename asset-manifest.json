@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Royal-Auto/static/css/main.150b8a7b.chunk.css",
-    "main.js": "/Royal-Auto/static/js/main.fefc49b6.chunk.js",
-    "main.js.map": "/Royal-Auto/static/js/main.fefc49b6.chunk.js.map",
+    "main.js": "/Royal-Auto/static/js/main.0928f043.chunk.js",
+    "main.js.map": "/Royal-Auto/static/js/main.0928f043.chunk.js.map",
     "runtime-main.js": "/Royal-Auto/static/js/runtime-main.313eb163.js",
     "runtime-main.js.map": "/Royal-Auto/static/js/runtime-main.313eb163.js.map",
     "static/js/2.54dabeb4.chunk.js": "/Royal-Auto/static/js/2.54dabeb4.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.313eb163.js",
     "static/js/2.54dabeb4.chunk.js",
     "static/css/main.150b8a7b.chunk.css",
-    "static/js/main.fefc49b6.chunk.js"
+    "static/js/main.0928f043.chunk.js"
   ]
 }
