@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Royal-Auto/static/css/main.150b8a7b.chunk.css",
+    "main.js": "/Royal-Auto/static/js/main.0dc1549b.chunk.js",
+    "main.js.map": "/Royal-Auto/static/js/main.0dc1549b.chunk.js.map",
+    "runtime-main.js": "/Royal-Auto/static/js/runtime-main.313eb163.js",
+    "runtime-main.js.map": "/Royal-Auto/static/js/runtime-main.313eb163.js.map",
+    "static/js/2.90ab8a69.chunk.js": "/Royal-Auto/static/js/2.90ab8a69.chunk.js",
+    "static/js/2.90ab8a69.chunk.js.map": "/Royal-Auto/static/js/2.90ab8a69.chunk.js.map",
+    "index.html": "/Royal-Auto/index.html",
+    "static/css/main.150b8a7b.chunk.css.map": "/Royal-Auto/static/css/main.150b8a7b.chunk.css.map",
+    "static/js/2.90ab8a69.chunk.js.LICENSE.txt": "/Royal-Auto/static/js/2.90ab8a69.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.313eb163.js",
+    "static/js/2.90ab8a69.chunk.js",
+    "static/css/main.150b8a7b.chunk.css",
+    "static/js/main.0dc1549b.chunk.js"
+  ]
+}
