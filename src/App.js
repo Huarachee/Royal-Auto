@@ -1,7 +1,6 @@
 import React from 'react';
 // import axios from 'axios';
 import { Route } from 'react-router-dom';
-// import { BrowserRouter as Router } from 'react-router-dom';
 import Home from './pages/Home';
 import TraideIn from './pages/TraideIn';
 import Leasing from './pages/Leasing';
